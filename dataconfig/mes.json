@@ -1,0 +1,5 @@
+{
+"plant" : {"plantNo": "","nameCn": "","pageSize": "10","pageIndex": 1},
+"workshop":{"tmBasPlantId":null,"workshopNo":"","nameCn":"","nameCnS":null,"nameEnS":null,"pageSize":"10","pageIndex":1},
+"line":{"pTmBasPlantId":null,"wTmBasWorkshopId":null,"lineNo":"","nameCn":"","nameEn":null,"pageSize":"10","pageIndex":1}
+}
